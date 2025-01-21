@@ -1,6 +1,6 @@
 # e6691_2025spring_paperreviewsrepo_shared
 
-This repo is used for sharing code and other information relevant to topic/paper presentations by students, for course on Advanced Deep Learning in 2024 semester.
+This repo is used for sharing code and other information relevant to topic/paper presentations by students, for course on Advanced Deep Learning in 2025 semester.
 * Students should add new directories (if their topic does not have the directory yet)
    - Naming of repos should be descriptive
 * Students should upload code relevant to their topic/paper presentations
