@@ -1,7 +1,9 @@
 # Faster R-CNN Object Detection on PASCAL VOC Dataset
 
 ## Overview
-This project implements Faster R-CNN for object detection using the PASCAL VOC dataset. The model is based on a pre-trained Faster R-CNN with a ResNet-50 backbone and Feature Pyramid Network (FPN) from PyTorch's `torchvision` module. The project includes training, validation, and inference steps.
+This project implements Faster R-CNN for object detection using the PASCAL VOC dataset. The model is based on a pre-trained Faster R-CNN with a ResNet-50 backbone and Feature Pyramid Network (FPN) from PyTorch's `torchvision` module. The project includes training, validation, and inference steps. 
+
+There is also an associated presentation with google slides. The pdf version is available in this folder. 
 
 ## Features
 - Uses the PASCAL VOC 2012 dataset for training and validation.
