@@ -18,7 +18,7 @@ If you only want to run predictions, please follow these steps:
 2. **Run `main_predict_E.ipynb`**
 
 ## Training Instructions
-If you wish to train Mask R-CNN from scratch or fine-tune the model, use `train_multi_GPU.ipynb`:
+If you wish to train Mask R-CNN from scratch or fine-tune the model, use `train_multi_GPU.ipynb`.
 
 
 
