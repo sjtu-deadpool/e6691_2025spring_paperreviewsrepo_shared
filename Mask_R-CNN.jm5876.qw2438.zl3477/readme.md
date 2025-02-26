@@ -16,18 +16,10 @@ If you only want to run predictions, please follow these steps:
    - Ensure that the downloaded weights are placed in the correct directory as required by the notebook.
 
 2. **Run `main_predict_E.ipynb`**
-   - Open the Jupyter Notebook.
-   - Load the pre-trained weights.
-   - Perform inference using the Mask R-CNN model.
 
 ## Training Instructions
 If you wish to train Mask R-CNN from scratch or fine-tune the model, use `train_multi_GPU.ipynb`:
 
-1. Set up the training dataset.
-2. Configure the model parameters.
-3. Run the notebook on a system with multiple GPUs for efficient training.
-
-For any issues or questions, please refer to the documentation inside each notebook. Happy coding!
 
 
 
