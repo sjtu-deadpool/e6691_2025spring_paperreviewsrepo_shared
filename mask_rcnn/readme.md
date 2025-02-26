@@ -15,7 +15,7 @@ If you only want to run predictions, please follow these steps: &#x20;
 
 1. **Download Pre-trained Weights  **
 
-   - Before running `main_predict_E.ipynb`, download the necessary weights from the following link: [Mask R-CNN Pre-trained Weights](https://drive.google.com/drive/folders/1X6NgfCWvLtS1EkioZUmeOsWW1V9yptnR?usp=drive_link)   &#x20;
+   - Before running `main_predict_E.ipynb`, download the necessary weights from the following link: [Mask R-CNN Pre-trained Weights](https://drive.google.com/drive/folders/1pkKcSXHvVtSH8VmLeK8hgB8idwBDMuFR?usp=drive_link)   &#x20;
    - Ensure that the downloaded weights are placed in the correct directory as required by the notebook. &#x20;
 
 2. **Run **`` &#x20;
